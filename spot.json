@@ -1,0 +1,29 @@
+{
+    "content": [
+    {
+        "familyName": "Doe",
+        "familyCode": "Doe102",
+        "surveys": [
+                {
+                "surveyNumber": 1,
+                "surveyDate": "2022-06-30",
+                "stoplight": [
+                                {
+                                    "codeName": "income",
+                                    "value": 2,
+                                    "shortName": "mary",
+                                    "dimension": "doe"
+                                },
+                                {
+                                    "codeName": "cod22",
+                                    "value": 3,
+                                    "shortName": "john",
+                                    "dimension": "doe"
+                                }
+                            ]
+                }
+            ]
+    }
+
+]
+}
